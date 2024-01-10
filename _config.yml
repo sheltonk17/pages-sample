@@ -28,7 +28,7 @@ twitter_username:
 github_username:  sheltonk17
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
